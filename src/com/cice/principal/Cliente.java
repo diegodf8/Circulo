@@ -25,7 +25,7 @@ public class Cliente{
         perimetro = circulo.calcularPerimetro();
 
         System.out.println("El area es: " + area);
-        System.out.println("El perimetro es: " + perimetro);
+        System.out.println("El perimétro es: " + perimetro);
 
 
     }
